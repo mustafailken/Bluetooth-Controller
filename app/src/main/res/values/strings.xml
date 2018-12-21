@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Telefon Sallama</string>
+    <string name="app_author">Author : Mustafa Ilken</string>
+    <string name="app_version">Version: 1.0.1</string>
+    <string name="device_discovery_started">Yakındaki cihazları arama&#8230;</string>
+    <string name="device_already_paired">Cihaz önceden eşleştirilmiş</string>
+    <string name="device_pairing_success">Cihaz başarıyla eşleştirildi!</string>
+    <string name="enabling_bluetooth">Bluetooth açıldı ve cihaz arama işlemi yapılıyor&#8230;</string>
+    <string name="device_discovery_stopped">Cihaz arama kapatıldı</string>
+    <string name="empty_list_message">Yakında bağlanılacak cihaz yok.Cihaz bulmak için telefonu tekrar sallayın.</string>
+    <string name="bluetooth_not_available_message">Cihazda bluetooth yok.</string>
+    <string name="bluetooth_not_available_title">Bluetooth bulunamadı.</string>
+</resources>
